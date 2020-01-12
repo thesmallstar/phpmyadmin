@@ -541,6 +541,8 @@ $js_messages['strAddInnerRing'] = __('Add an inner ring');
 $js_messages['strYes'] = __('Yes');
 $js_messages['strCopyEncryptionKey'] = __('Do you want to copy encryption key?');
 $js_messages['strEncryptionKey'] = __('Encryption key');
+/* l10n: Tip for HEX conversion of Integers*/
+$js_messages['HexConversionInfo'] = __('HEX function will treat the integer as string while calculating hexadecimal value');
 
 /* For Tip to be shown on Time field */
 $js_messages['strMysqlAllowedValuesTipTime'] = __(
